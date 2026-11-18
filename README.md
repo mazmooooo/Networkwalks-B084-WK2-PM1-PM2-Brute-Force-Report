@@ -45,7 +45,7 @@ Additionally, this report will cover how to install and use different brute-forc
 | Johnny GUI | Provides a graphical interface for John the Ripper. |
 | Online hashing tool (https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php) | Extracts password hashes from PDF files. |
 | Networkwalks Hash Calculator | Networkwalks’ tool that calculates the hash digest of the files. |
-| Networkwalks Password Cracker | Networkwalks’ tool that calculates the hash digest of the files. |
+| Networkwalks Password Cracker | Networkwalks’ tool that cracks the file's password based on the hash inputed/calculated |
 
 <br> 
 <div align="center">
